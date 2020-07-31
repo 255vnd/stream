@@ -1,0 +1,13 @@
+{
+  "name": "stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/255vnd/stream.git",
+  "author": "255vnd <dungnvbk255@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
